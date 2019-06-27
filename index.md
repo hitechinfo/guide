@@ -6,13 +6,11 @@
 행복성장플랫폼은 Cloud Native Application을 지향하고 있습니다. 일반적인 의미에서 “클라우드 네이티브”는 클라우드 컴퓨팅 제공 모델의 이점을 활용하는 애플리케이션 구축 및 실행 접근 방법입니다. 클라우드 네이티브 앱 개발에는 일반적으로 데브옵스, 애자일 방법론, 마이크로서비스, 클라우드 플랫폼, 쿠버네티스 및 도커와 같은 컨테이너, 그리고 CI/CD 개념이 포함됩니다.
 
 [현대적인 소프트웨어 개발 방법 ‘클라우드 네이티브’의 정의와 특징](http://www.itworld.co.kr/news/109679)
-
-
+  
 ### 2. 행복성장플랫폼 구조
 행복성장플랫폼은 Github-ZCP-CloudZ로 연결되는 CloudZ기반 오픈소스 플랫폼입니다.
 ![플랫폼구조](./img/platform.png)
-
-
+  
 ### 3. 참고 기술요소
 #### - Git
 깃(Git /ɡɪt)은 프로그램 등의 소스 코드 관리를 위한 분산 버전 관리 시스템입니다. 분산 버전 관리 시스템을 쉽게 말하면, 여러명의 개발자(분산)가 특정 프로젝트를 자신의 컴퓨터로 협업하여 개발하면서 버전을 관리할 수 있는 시스템입니다. 
@@ -35,12 +33,12 @@ git을 호스팅해주는 웹 서비스이며,  git 저장소 서버를 대신 �
 행복성장플랫폼은 유효한 토큰을 White List로 관리하고 있으며, 이때 토큰 저장을 위해 Redis에 사용하고 있습니다. Redis는 REmote DIctionary Server의 약자로, 디스크가 아닌 메모리 기반의 데이터 저장소입니다. NoSQL & Cache 솔루션이며 대용량 처리 관련 기술입니다.
 
 [Redis 개념과 특징](https://goodgid.github.io/Redis/)
-
-
+  
+  
 ## Template으로 시작하기
 행복성장플랫폼 템플릿을 활용하면 Cloud Natvie Application을 쉽게 구현하실 수 있습니다. 
 
-
+  
 ### 1.React-Redux Frontend 템플릿
 React-Redux, Babel, Webpack 기술을 이용한 Frontend 템플릿
 
@@ -60,7 +58,7 @@ React-Redux, Babel, Webpack 기술을 이용한 Frontend 템플릿
 
 [※템플릿 Read Me](https://github.com/hitechinfo/template_frontend_react_001)
 
-
+  
 ### 2.Node.js Backtend 템플릿
 Node.js, Express, Sequelize 기술을 이용한 Backend 템플릿
 
@@ -91,7 +89,7 @@ Node.js, Express, Sequelize 기술을 이용한 Backend 템플릿
 
 [※템플릿 Read Me](https://github.com/hitechinfo/template_backend_node_001)
 
-
+  
 ### 3.SpringBoot Backtend 템플릿
 Springboot, Spring Security, JPA 기반 템플릿
 
