@@ -30,7 +30,7 @@ git을 호스팅해주는 웹 서비스이며,  git 저장소 서버를 대신 �
 [JSON Web Token 소개 및 구조](https://velopert.com/2389)
 
 #### - Redis
-행복성장플랫폼은 유효한 토큰을 White List로 관리하고 있으며, 이때 토큰 저장을 위해 Redis에 사용하고 있습니다. Redis는 REmote DIctionary Server의 약자로, 디스크가 아닌 메모리 기반의 데이터 저장소입니다. NoSQL & Cache 솔루션이며 대용량 처리 관련 기술입니다.
+행복성장플랫폼은 유효한 토큰을 White List로 관리하고 있으며, 이때 토큰 저장을 위해 Redis에 사용하고 있습니다. Redis는 REmote DIctionary Server의 약자로, 디스크가 아닌 메모리 기반의 데이터 저장소입니다.
 
 [Redis 개념과 특징](https://goodgid.github.io/Redis/)
   
