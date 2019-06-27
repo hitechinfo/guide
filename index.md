@@ -13,10 +13,19 @@
 
 
 ### 3. 참고 기술요소
-#### Git
-#### JWT
-#### Redis
-#### MariaDB
+#### - Git
+깃(Git /ɡɪt)은 프로그램 등의 소스 코드 관리를 위한 분산 버전 관리 시스템입니다. 분산 버전 관리 시스템을 쉽게 말하면, 여러명의 개발자(분산)가 특정 프로젝트를 자신의 컴퓨터로 협업하여 개발하면서 버전을 관리할 수 있는 시스템입니다. 
+
+[Git이란 무엇인가?](https://medium.com/@psychet_learn/git-%EC%82%AC%EC%9A%A9%EB%B2%95-1%EA%B0%95-git%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-340438d9a69f)
+
+#### - Github
+git을 호스팅해주는 웹 서비스이며,  git 저장소 서버를 대신 유지 및 관리해주는 서비스입니다. 다른 유저들과 함께 온라인으로 하나의 프로그램을 제작하는 것도 가능하여, 많은 오픈소스 프로그램들이 github을 통해서 전세계 유저들에 의해 제작되고 있습니다. 
+[github란? - github 소개 및 설치](https://m.blog.naver.com/PostView.nhn?blogId=ufo7142&logNo=220628116787&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
+
+
+#### - JWT
+#### - Redis
+#### - MariaDB
 
 
 ### 4. 템플릿 Guide
