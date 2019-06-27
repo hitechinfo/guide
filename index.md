@@ -46,6 +46,7 @@ React-Redux, Babel, Webpack 기술을 이용한 Frontend 템플릿
 
 #### - prerequisite
 1) Javascript 문법에 대한 기본 지식
+
 2) React/Redux에 대한 이해
 
 
@@ -65,9 +66,13 @@ Node.js, Express, Sequelize 기술을 이용한 Backend 템플릿
 
 #### - prerequisite
 1) Javascript 문법에 대한 기본 지식
+
 2) 동기/비동기 처리에 대한 이해 (Promise)
+
 3) REST 동작원리
+
 4) Redis(NoSQL) 사용법
+
 5) MariaDB 사용법
 
 #### - Reference
@@ -92,10 +97,15 @@ Springboot, Spring Security, JPA 기반 템플릿
 
 #### - prerequisite
 1) JAVA/Spring에 대한 이해
+
 2) Spring Security
+
 2) JPA 사용법
+
 3) REST 동작원리
+
 4) Redis(NoSQL) 사용법
+
 5) MariaDB 사용법
 
 #### - Reference
