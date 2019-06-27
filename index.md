@@ -1,5 +1,5 @@
-## 시작하기
-행복성장플랫폼 가이드를 참고하면, 빠르고 쉽게 플랫폼을 활용할 수 있습니다. 
+## 행복성장플랫폼 가이드
+행복성장플랫폼 가이드를 참고하시면 배경지식을 쉽게 하실 수 있습니다.
 
 
 ### 1. Cloud Native 란?
@@ -38,8 +38,11 @@ git을 호스팅해주는 웹 서비스이며,  git 저장소 서버를 대신 �
 [Redis 개념과 특징](https://goodgid.github.io/Redis/)
 
 
+## 시작하기
+행복성장플랫폼 템플릿을 활용하면 Cloud Natvie Application을 쉽게 구현하실 수 있습니다. 
 
-### 4.React-Redux Frontend 템플릿
+
+### 1.React-Redux Frontend 템플릿
 React-Redux, Babel, Webpack 기술을 이용한 Frontend 템플릿
 
 #### - prerequisite
