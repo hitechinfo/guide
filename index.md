@@ -43,10 +43,12 @@ git을 호스팅해주는 웹 서비스이며,  git 저장소 서버를 대신 �
 #### - React-Redux Frontend 템플릿
 React-Redux, Babel, Webpack 기술을 이용한 Frontend 템플릿
 
+
 **prerequisite**
 1) Javascript 문법에 대한 기본 지식
 2) React/Redux에 대한 이해
 3) 템플릿 기본구조 익히기
+
 
 **Reference**
 [생활코딩-자바스크립트 기본](https://opentutorials.org/course/743/6582)
