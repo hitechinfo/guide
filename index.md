@@ -23,7 +23,7 @@ git을 호스팅해주는 웹 서비스이며,  git 저장소 서버를 대신 �
 [github란? - github 소개 및 설치](https://m.blog.naver.com/PostView.nhn?blogId=ufo7142&logNo=220628116787&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
 
 #### - JWT
-행복성장플랫폼의 템플릿은 JWT를 이용하여 토큰 기반 인증을 하고 있습니다. JSON Web Token(JWT)은 웹표준(RFC 7519)으로서 두 개체에서 JSON 객체를 사용하여 가볍고 자가수용적인 (self-contained) 방식으로 정보를 안전성 있게 전달해줍니다.
+행복성장플랫폼의 템플릿은 JWT를 이용하여 토큰 기반 인증을 하고 있습니다. JSON Web Token은 웹표준(RFC 7519)으로서 두 개체에서 JSON 객체를 사용하여 가볍고 자가수용적인(self-contained) 방식으로 정보를 안전성 있게 전달해줍니다.
 
 [토큰 기반 인증 간단 정리 Token based Authentication](https://blog.msalt.net/251)
 
