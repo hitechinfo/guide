@@ -113,6 +113,8 @@ Springboot, Spring Security, JPA 기반 템플릿
 
 [spring security 파헤치기](https://sjh836.tistory.com/165)
 
+[Spring Boot 기반 Spring Security 회원가입 / 로그인 구현하기](https://xmfpes.github.io/spring/spring-security/)
+
 [Spring Boot JPA 사용해보기](https://velog.io/@junwoo4690/Spring-Boot-JPA-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0-erjpw41nl7)
 
 [※템플릿 바로가기](https://github.com/hitechinfo/template_backend_springboot_001)
