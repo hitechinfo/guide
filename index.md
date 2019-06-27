@@ -1,3 +1,10 @@
+## 시작하기
+행복성장플랫폼 가이드를 참고하면, 빠르고 쉽게 플랫폼을 활용할 수 있습니다. 
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/hitechinfo/guide/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
