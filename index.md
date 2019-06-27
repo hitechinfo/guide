@@ -8,7 +8,6 @@
 [현대적인 소프트웨어 개발 방법 ‘클라우드 네이티브’의 정의와 특징](http://www.itworld.co.kr/news/109679)
 
 
-
 ### 2. 행복성장플랫폼 구조
 행복성장플랫폼은 Github-ZCP-CloudZ로 연결되는 CloudZ기반 오픈소스 플랫폼입니다.
 ![플랫폼구조](./img/platform.png)
@@ -38,7 +37,9 @@ git을 호스팅해주는 웹 서비스이며,  git 저장소 서버를 대신 �
 [Redis 개념과 특징](https://goodgid.github.io/Redis/)
 
 
-## 시작하기
+
+
+## Template으로 시작하기
 행복성장플랫폼 템플릿을 활용하면 Cloud Natvie Application을 쉽게 구현하실 수 있습니다. 
 
 
@@ -48,7 +49,6 @@ React-Redux, Babel, Webpack 기술을 이용한 Frontend 템플릿
 #### - prerequisite
 1) Javascript 문법에 대한 기본 지식
 2) React/Redux에 대한 이해
-3) 템플릿 기본구조 익히기
 
 
 #### - Reference
@@ -60,6 +60,31 @@ React-Redux, Babel, Webpack 기술을 이용한 Frontend 템플릿
 [리덕스(Redux)를 왜 쓸까? 그리고 리덕스를 편하게 사용하기 위한 발악 (ii)](https://velopert.com/3533)
 
 [템플릿 Read Me](https://github.com/hitechinfo/template_frontend_react_001)
+
+
+### 2.Node.js Backtend 템플릿
+Node.js, Express, Sequelize 기술을 이용한 Backend 템플릿
+
+#### - prerequisite
+1) Javascript 문법에 대한 기본 지식
+2) 동기/비동기 처리에 대한 이해
+3) REST 동작원리
+4) Redis(NoSQL)
+5) MariaDB
+
+#### - Reference
+
+[생활코딩-자바스크립트 기본](https://opentutorials.org/course/743/6582)
+
+
+
+[템플릿 Read Me](https://github.com/hitechinfo/template_backend_node_001)
+
+
+
+
+
+
 
 
 
