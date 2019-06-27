@@ -20,11 +20,18 @@
 
 #### - Github
 git을 호스팅해주는 웹 서비스이며,  git 저장소 서버를 대신 유지 및 관리해주는 서비스입니다. 다른 유저들과 함께 온라인으로 하나의 프로그램을 제작하는 것도 가능하여, 많은 오픈소스 프로그램들이 github을 통해서 전세계 유저들에 의해 제작되고 있습니다. 
+
 [github란? - github 소개 및 설치](https://m.blog.naver.com/PostView.nhn?blogId=ufo7142&logNo=220628116787&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
 
-
 #### - JWT
+행복성장플랫폼의 템플릿은 JWT를 이용하여 인증(토큰 기반 인증)을 하고 있습니다. JSON Web Token(JWT)은 웹표준 (RFC 7519)으로서 두 개체에서 JSON 객체를 사용하여 가볍고 자가수용적인 (self-contained) 방식으로 정보를 안전성 있게 전달해줍니다. JWT 는 필요한 모든 정보를 자체적으로 지니고 있으며, JWT 시스템에서 발급된 토큰은 토큰에 대한 기본정보, 전달 할 정보 그리고 토큰이 검증됐다는것을 증명해주는 signature 를 포함하고있습니다.
+
+[토큰 기반 인증 간단 정리 Token based Authentication](https://blog.msalt.net/251)
+[JSON Web Token 소개 및 구조](https://velopert.com/2389)
+
 #### - Redis
+
+
 #### - MariaDB
 
 
