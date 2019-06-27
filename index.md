@@ -37,8 +37,6 @@ git을 호스팅해주는 웹 서비스이며,  git 저장소 서버를 대신 �
 [Redis 개념과 특징](https://goodgid.github.io/Redis/)
 
 
-
-
 ## Template으로 시작하기
 행복성장플랫폼 템플릿을 활용하면 Cloud Natvie Application을 쉽게 구현하실 수 있습니다. 
 
@@ -59,7 +57,7 @@ React-Redux, Babel, Webpack 기술을 이용한 Frontend 템플릿
 
 [리덕스(Redux)를 왜 쓸까? 그리고 리덕스를 편하게 사용하기 위한 발악 (ii)](https://velopert.com/3533)
 
-[템플릿 Read Me](https://github.com/hitechinfo/template_frontend_react_001)
+[※템플릿 Read Me](https://github.com/hitechinfo/template_frontend_react_001)
 
 
 ### 2.Node.js Backtend 템플릿
@@ -67,61 +65,45 @@ Node.js, Express, Sequelize 기술을 이용한 Backend 템플릿
 
 #### - prerequisite
 1) Javascript 문법에 대한 기본 지식
-2) 동기/비동기 처리에 대한 이해
+2) 동기/비동기 처리에 대한 이해 (Promise)
 3) REST 동작원리
-4) Redis(NoSQL)
-5) MariaDB
+4) Redis(NoSQL) 사용법
+5) MariaDB 사용법
 
 #### - Reference
 
 [생활코딩-자바스크립트 기본](https://opentutorials.org/course/743/6582)
 
+[동기(Sync) 와 비동기(Async)](http://leechoong.com/posts/2017/nodejs_syncasync/)
+
+[Promise 강의](https://programmingsummaries.tistory.com/325)
+
+[REST란?](https://nachwon.github.io/rest-1/)
+
+[node.js에서 Redis 사용하기](https://bcho.tistory.com/1098)
+
+[MySQL – 자주 사용하는 명령어, 문법](https://bugwhale.com/mysql-commands-frequently-used/)
+
+[※템플릿 Read Me](https://github.com/hitechinfo/template_backend_node_001)
 
 
-[템플릿 Read Me](https://github.com/hitechinfo/template_backend_node_001)
+### 3.SpringBoot Backtend 템플릿
+Springboot, Spring Security, JPA 기반 템플릿
 
+#### - prerequisite
+1) JAVA/Spring에 대한 이해
+2) Spring Security
+2) JPA 사용법
+3) REST 동작원리
+4) Redis(NoSQL) 사용법
+5) MariaDB 사용법
 
+#### - Reference
 
+[MVC패턴이란](https://m.blog.naver.com/jhc9639/220967034588)
 
+[spring security 파헤치기](https://sjh836.tistory.com/165)
 
+[Spring Boot JPA 사용해보기](https://velog.io/@junwoo4690/Spring-Boot-JPA-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0-erjpw41nl7)
 
-
-
-
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/hitechinfo/guide/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hitechinfo/guide/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[※템플릿 Read Me](https://github.com/hitechinfo/template_backend_springboot_001)
