@@ -45,18 +45,14 @@ React-Redux, Babel, Webpack 기술을 이용한 Frontend 템플릿
 
 **prerequisite**
 1) Javascript 문법에 대한 기본 지식
-
-  [생활코딩-자바스크립트 기본](https://opentutorials.org/course/743/6582)
-
 2) React/Redux에 대한 이해
-
-  [누구든지 하는 리액트: 초심자를 위한 리액트 핵심 강좌](https://velopert.com/3613)
-
-  [리덕스(Redux)를 왜 쓸까? 그리고 리덕스를 편하게 사용하기 위한 발악 (ii)](https://velopert.com/3533)
-
 3) 템플릿 기본구조 익히기
 
-  [템플릿 Guide](https://github.com/hitechinfo/template_frontend_react_001)
+**Reference**
+[생활코딩-자바스크립트 기본](https://opentutorials.org/course/743/6582)
+[누구든지 하는 리액트: 초심자를 위한 리액트 핵심 강좌](https://velopert.com/3613)
+[리덕스(Redux)를 왜 쓸까? 그리고 리덕스를 편하게 사용하기 위한 발악 (ii)](https://velopert.com/3533)
+[템플릿 Read Me](https://github.com/hitechinfo/template_frontend_react_001)
 
 
 
