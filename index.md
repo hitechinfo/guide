@@ -43,7 +43,7 @@ git을 호스팅해주는 웹 서비스이며,  git 저장소 서버를 대신 �
 ### 1.React Frontend 템플릿
 React-Redux, Babel, Webpack 기술을 이용한 Frontend 템플릿
 
-#### - prerequisite
+#### - Prerequisite
 1) Javascript 문법에 대한 기본 지식
 
 2) React/Redux에 대한 이해
@@ -63,7 +63,7 @@ React-Redux, Babel, Webpack 기술을 이용한 Frontend 템플릿
 ### 2.Node.js Backend 템플릿
 Node.js, Express, Sequelize 기술을 이용한 Backend 템플릿
 
-#### - prerequisite
+#### - Prerequisite
 1) Javascript 문법에 대한 기본 지식
 
 2) 동기/비동기 처리에 대한 이해 (Promise)
@@ -94,7 +94,7 @@ Node.js, Express, Sequelize 기술을 이용한 Backend 템플릿
 ### 3.SpringBoot Backend 템플릿
 Springboot, Spring Security, JPA 기반 템플릿
 
-#### - prerequisite
+#### - Prerequisite
 1) JAVA/Spring에 대한 이해
 
 2) Spring Security
