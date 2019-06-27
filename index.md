@@ -24,16 +24,16 @@ git을 호스팅해주는 웹 서비스이며,  git 저장소 서버를 대신 �
 [github란? - github 소개 및 설치](https://m.blog.naver.com/PostView.nhn?blogId=ufo7142&logNo=220628116787&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
 
 #### - JWT
-행복성장플랫폼의 템플릿은 JWT를 이용하여 인증(토큰 기반 인증)을 하고 있습니다. JSON Web Token(JWT)은 웹표준 (RFC 7519)으로서 두 개체에서 JSON 객체를 사용하여 가볍고 자가수용적인 (self-contained) 방식으로 정보를 안전성 있게 전달해줍니다. JWT 는 필요한 모든 정보를 자체적으로 지니고 있으며, JWT 시스템에서 발급된 토큰은 토큰에 대한 기본정보, 전달 할 정보 그리고 토큰이 검증됐다는것을 증명해주는 signature 를 포함하고있습니다.
+행복성장플랫폼의 템플릿은 JWT를 이용하여 인증(토큰 기반 인증)을 하고 있습니다. JSON Web Token(JWT)은 웹표준 (RFC 7519)으로서 두 개체에서 JSON 객체를 사용하여 가볍고 자가수용적인 (self-contained) 방식으로 정보를 안전성 있게 전달해줍니다.
 
 [토큰 기반 인증 간단 정리 Token based Authentication](https://blog.msalt.net/251)
+
 [JSON Web Token 소개 및 구조](https://velopert.com/2389)
 
 #### - Redis
+행복성장플랫폼은 유효한 토큰을 White List로 관리하고 있으며, 이때 토큰 저장을 위해 Redis에 사용하고 있습니다. Redis는 REmote DIctionary Server의 약자로, 디스크가 아닌 메모리 기반의 데이터 저장소입니다. NoSQL & Cache 솔루션이며 대용량 처리 관련 기술입니다.
 
-
-#### - MariaDB
-
+[Redis 개념과 특징](https://goodgid.github.io/Redis/)
 
 ### 4. 템플릿 Guide
 
