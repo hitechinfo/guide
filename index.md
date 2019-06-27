@@ -37,7 +37,7 @@ git을 호스팅해주는 웹 서비스이며,  git 저장소 서버를 대신 �
   
   
 ## Template으로 시작하기
-행복성장플랫폼 템플릿을 활용하면 Cloud Natvie Application을 쉽게 구현하실 수 있습니다. 
+행복성장플랫폼 템플릿을 활용하면 Cloud Native Application을 쉽게 구현하실 수 있습니다. 
 
   
 ### 1.React Frontend 템플릿
