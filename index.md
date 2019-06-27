@@ -40,7 +40,7 @@ git을 호스팅해주는 웹 서비스이며,  git 저장소 서버를 대신 �
 행복성장플랫폼 템플릿을 활용하면 Cloud Natvie Application을 쉽게 구현하실 수 있습니다. 
 
   
-### 1.React-Redux Frontend 템플릿
+### 1.React Frontend 템플릿
 React-Redux, Babel, Webpack 기술을 이용한 Frontend 템플릿
 
 #### - prerequisite
@@ -60,7 +60,7 @@ React-Redux, Babel, Webpack 기술을 이용한 Frontend 템플릿
 [※템플릿 바로가기](https://github.com/hitechinfo/template_frontend_react_001)
 
   
-### 2.Node.js Backtend 템플릿
+### 2.Node.js Backend 템플릿
 Node.js, Express, Sequelize 기술을 이용한 Backend 템플릿
 
 #### - prerequisite
@@ -91,7 +91,7 @@ Node.js, Express, Sequelize 기술을 이용한 Backend 템플릿
 [※템플릿 바로가기](https://github.com/hitechinfo/template_backend_node_001)
 
   
-### 3.SpringBoot Backtend 템플릿
+### 3.SpringBoot Backend 템플릿
 Springboot, Spring Security, JPA 기반 템플릿
 
 #### - prerequisite
