@@ -43,6 +43,8 @@ git을 호스팅해주는 웹 서비스이며,  git 저장소 서버를 대신 �
 ### 1.React Frontend 템플릿
 React-Redux, Babel, Webpack 기술을 이용한 Frontend 템플릿
 
+[※템플릿 바로가기](https://github.com/hitechinfo/template_frontend_react_001)
+
 #### - Prerequisite
 1) Javascript 문법에 대한 기본 지식
 
@@ -57,11 +59,11 @@ React-Redux, Babel, Webpack 기술을 이용한 Frontend 템플릿
 
 [리덕스(Redux)를 왜 쓸까? 그리고 리덕스를 편하게 사용하기 위한 발악 (ii)](https://velopert.com/3533)
 
-[※템플릿 바로가기](https://github.com/hitechinfo/template_frontend_react_001)
-
   
 ### 2.Node.js Backend 템플릿
 Node.js, Express, Sequelize 기술을 이용한 Backend 템플릿
+
+[※템플릿 바로가기](https://github.com/hitechinfo/template_backend_node_001)
 
 #### - Prerequisite
 1) Javascript 문법에 대한 기본 지식
@@ -88,11 +90,11 @@ Node.js, Express, Sequelize 기술을 이용한 Backend 템플릿
 
 [MySQL – 자주 사용하는 명령어, 문법](https://bugwhale.com/mysql-commands-frequently-used/)
 
-[※템플릿 바로가기](https://github.com/hitechinfo/template_backend_node_001)
-
   
 ### 3.SpringBoot Backend 템플릿
 Springboot, Spring Security, JPA 기반 템플릿
+
+[※템플릿 바로가기](https://github.com/hitechinfo/template_backend_springboot_001)
 
 #### - Prerequisite
 1) JAVA/Spring에 대한 이해
@@ -116,5 +118,3 @@ Springboot, Spring Security, JPA 기반 템플릿
 [Spring Boot 기반 Spring Security 회원가입 / 로그인 구현하기](https://xmfpes.github.io/spring/spring-security/)
 
 [Spring Boot JPA 사용해보기](https://velog.io/@junwoo4690/Spring-Boot-JPA-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0-erjpw41nl7)
-
-[※템플릿 바로가기](https://github.com/hitechinfo/template_backend_springboot_001)
